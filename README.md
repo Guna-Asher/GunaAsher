@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing a BCA<br>🌱 I’m currently learning AI and Data Quality Analysis<br>
+🔭 I’m currently pursuing a MCA<br>🌱 I’m currently learning AI and Data Quality Analysis<br>
 
 
 ## 🌐 Socials:
